@@ -1,2 +1,2 @@
+Hi class!
 Hi world!
-Hi class! 
